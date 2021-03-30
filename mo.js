@@ -1,4 +1,4 @@
-var mo = {
+const mo = {
 	info: function() {
 		mo.c.l("Modal & Overlay (M&O) script information:"+"\n"+"Version: 1.0"+"\n"+"Dependencies: Thanks CyberSecurity, can I have my Steam back now?"+"\n"+"Console: Enabled"+"\n"+"Author: Philippe F."+"\n"+"Employee ID: 60073790");
 	},
